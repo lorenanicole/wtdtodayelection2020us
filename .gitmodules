@@ -1,0 +1,3 @@
+[submodule "pelican-mg"]
+	path = pelican-mg
+	url = https://github.com/lorenanicole/pelican-mg.git
