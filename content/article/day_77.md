@@ -5,7 +5,7 @@ Category: day-77
 
 ## Day 77   
 
-_Published last at 09:40am CDT August 18 2020, subject to change throughout the day._
+_Published last at 11:51am CDT August 18 2020, subject to change throughout the day._
 
 Last night Michelle Obama made a very direct ask of us all. Create your voting plan.
 
