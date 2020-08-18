@@ -34,9 +34,8 @@ So today's theme is simple -- *create your voting plan*.
 ### Call to Action
 
 - Make your voting plan. NBC News has a plan your vote voting by mail guide [to help you](https://www.nbcnews.com/specials/plan-your-vote-state-by-state-guide-voting-by-mail-early-in-person-voting-election/).
-- Ask 5 folks in your circle, what is your voting plan
-- Devise a plan for success
-- Keep your Election Protection Hotline number handy: 866-OUR-VOTE, or [Michelle Obama will be disappointed in us](https://www.whenweallvote.org/when-we-all-vote-co-chair-michelle-obama-announces-new-initiative-for-educators/)
+- Ask 5 folks in your circle "what is your voting plan" and devise ways to hold one another accountable.
+- Keep your Election Protection Hotline number handy: 866-OUR-VOTE, or [Michelle Obama will be disappointed in us](https://www.whenweallvote.org/when-we-all-vote-co-chair-michelle-obama-announces-new-initiative-for-educators/).
 - Text “TEACH” to “21333” to sign up and learn more about how you can help your students get registered.
 
 ### Just for fun
