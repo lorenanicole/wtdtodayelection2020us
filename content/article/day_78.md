@@ -15,10 +15,10 @@ One of the simplest things each of us can do is to reach out to people within ou
 
 ### News
 
-*Save USPS - Blockchain Patent * (U.S. Postal Service Counters Trump Attacks On Mail-In Voting With A New Blockchain Patent)[https://www.forbes.com/sites/jasonbrett/2020/08/13/us-post-counters-trump-attacks-on-mail-in-voting-with-a-new-blockchain-patent/#5e0a28385b43] 
-*Save USPS - Vote Funding Bill* [Pelosi to Call House Back Into Session to Vote on USPS Bill](https://news.wttw.com/2020/08/16/pelosi-call-house-back-session-vote-usps-bill)
-*Election Prediction* [Five Thirty Eight - Our Election Forecast Didn’t Say What I Thought It Would](https://fivethirtyeight.com/features/our-election-forecast-didnt-say-what-i-thought-it-would/) 
-*COVID19* [WBEZ - 50 Lives In 4 ZIP Codes](https://www.wbez.org/stories/a-perfect-storm-50-lives-and-4-zip-codes-tell-chicagos-story-of-covid-19-inequality/50b822ae-523e-47fa-a823-3c6a1c3ee12f?utm_source=SFMC&utm_medium=email&utm_campaign=Daily_Newsletter_Daily-Rundown_%2020200817)
+- *Save USPS - Blockchain Patent* [U.S. Postal Service Counters Trump Attacks On Mail-In Voting With A New Blockchain Patent)](https://www.forbes.com/sites/jasonbrett/2020/08/13/us-post-counters-trump-attacks-on-mail-in-voting-with-a-new-blockchain-patent/#5e0a28385b43)
+- *Save USPS - Vote Funding Bill* [Pelosi to Call House Back Into Session to Vote on USPS Bill](https://news.wttw.com/2020/08/16/pelosi-call-house-back-session-vote-usps-bill)
+- *Election Prediction* [Five Thirty Eight - Our Election Forecast Didn’t Say What I Thought It Would](https://fivethirtyeight.com/features/our-election-forecast-didnt-say-what-i-thought-it-would/) 
+- *COVID19* [WBEZ - 50 Lives In 4 ZIP Codes](https://www.wbez.org/stories/a-perfect-storm-50-lives-and-4-zip-codes-tell-chicagos-story-of-covid-19-inequality/50b822ae-523e-47fa-a823-3c6a1c3ee12f?utm_source=SFMC&utm_medium=email&utm_campaign=Daily_Newsletter_Daily-Rundown_%2020200817)
 
 ### Events
 
