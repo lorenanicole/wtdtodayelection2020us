@@ -5,7 +5,7 @@ Category: day-77
 
 ## Day 77   
 
-_Published last at 11:51am CDT August 18 2020, subject to change throughout the day._
+_Published last at 3:45pm CDT August 18 2020, subject to change throughout the day._
 
 Last night Michelle Obama made a very direct ask of us all. Create your voting plan.
 
@@ -27,8 +27,9 @@ So today's theme is simple -- *create your voting plan*.
 
 - *Voting - Mail in* [Orange County Registrar - Election integrity will be put to the test in California this November](https://www.ocregister.com/2020/08/08/election-integrity-will-be-put-to-the-test-in-california-this-november/)
 - *Voting - Mail in* [CBS - With more mail-in ballots, U.S. may not have official results on election night: "Be prepared, be patient"](https://www.cbsnews.com/news/2020-election-mail-in-ballots-vote/)
-- *Voting - Mail in* [ ]()
+- *Voting - Mail in* [The Hill - Postmaster general says he's pausing changes 'until after the election'](https://thehill.com/homenews/administration/512533-postmaster-general-says-hes-pausing-changes-until-after-the-election)
 - *DNC Convention - Day 1 Recap* [CNN - Hits and misses from Night 1 of the Democratic National Convention](https://www.cnn.com/2020/08/17/politics/democrats-analysis-best-worst-dnc/index.html)
+- *State Election Primaries* [Five Thirty Eight - What To Watch In Today’s Elections In Alaska, Florida And Wyoming ](https://fivethirtyeight.com/features/what-to-watch-in-todays-elections-in-alaska-florida-and-wyoming/)
 
 ### Events
 
