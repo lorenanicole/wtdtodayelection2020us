@@ -57,6 +57,10 @@ While changes to USPS may be in a suspended state, the USPS is still facing a su
 
 ### Just for fun
 
+- All our tech for this campaign is powered by amazing technologists whom I am *deeply thankful for*. Today, I'd like to thank Mica, a #LatinxInTech Chicago DNC engineer who is a prominent lead behind `IWillVote.com`, "the #1 site for taking action in 2020" as Democrats CTO describes.  So, go register on `IWillVote.com` and send some ❤️ over to Mica:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🗳️ <a href="https://t.co/Wy7NIy9YGP">https://t.co/Wy7NIy9YGP</a> is the #1 site for taking action in 2020 -- register, request a ballot and vote! Meet one of the brilliant 🧠 behind it: <a href="https://twitter.com/_micada?ref_src=twsrc%5Etfw">@_micada</a>! DNC engineer, Chicagoan, electronic 🎶 lover, educator and amplifier 📣 for women and latinx in political tech. 🥳 Mica!!!</p>&mdash; nell thomas (@nellwyn) <a href="https://twitter.com/nellwyn/status/1295764499010592768?ref_src=twsrc%5Etfw">August 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 - Seriously, this Maine B&B - [Annabessacook Farm](http://annabessacookfarm.blogspot.com/) -, owned by DNC Convention Delegate Craig Hickman and his husband, brings me such joy. Who wants to book a 2021 trip? 
 - Also, AOC is amazing. Her endorsement of Sen Sanders was in fact in line with DNC Convention procedures:
 
