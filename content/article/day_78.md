@@ -5,7 +5,7 @@ Category: day-78
 
 ## Day 78
 
-This week is the 100th year anniversary of the 19th Amendment. Or, better yet, we should remember that this week is only the 100th year anniversary of the 19th Amendment.
+This week is the 100th year anniversary of the 19th Amendment. Or, better yet, we should remember that this week is *only* the 100th year anniversary of the 19th Amendment.
 
 Even more timely? Last night, being the sci-fi nerd I am, in watching [Lovecraft Country](https://www.wired.com/story/lovecraft-country-essay/) last night many pointed to how Lovecraft Country included several images such as the tribute to [Gordon Park’s 1956 photograph outside a department store in Mobile, Alabama](https://www.newsweek.com/lovecraft-country-gordon-parks-photos-1525235) demonstrating the only to recent segregated past of the United States.
 
