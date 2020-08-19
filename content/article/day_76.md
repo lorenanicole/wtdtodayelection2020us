@@ -5,7 +5,7 @@ Category: day-76
 
 ## Day 76   
 
-_Published last at 07:45am CDT August 19 2020, subject to change throughout the day._
+_Published last at 8:50am CDT August 19 2020, subject to change throughout the day._
 
 Last night's [virtual DNC Convention roll call](https://www.nytimes.com/2020/08/19/us/politics/dnc-roll-call.html) brought us images reminding us *who this country is*:
 
@@ -46,6 +46,7 @@ While changes to USPS may be in a suspended state, the USPS is still facing a su
 - *USPS. - Mailing Voting* [USPS - Postmaster General Louis DeJoy Statement](https://about.usps.com/newsroom/national-releases/2020/0818-postmaster-general-louis-dejoy-statement.htm)
 - *USPS - Mailin Voting* [CNN - The post office backed off, but the damage is already done](https://www.cnn.com/2020/08/19/politics/what-matters-august-18/index.html)
 - *COVID19 - Vaccine* [CNN - Australia secures deal for potential Covid-19 vaccine, will provide it free to all citizens](https://www.cnn.com/2020/08/19/australia/australia-astrazeneca-covid-19-vaccine-intl-hnk-scli-scn/index.html)
+- *DNC Convention - Day 2 Recap* [NPR - Highlights Of The Day 2 Of The Democratic National Convention](https://www.npr.org/2020/08/18/903616287/highlights-of-the-day-2-of-the-democratic-national-convention)
 
 ### Events
 
