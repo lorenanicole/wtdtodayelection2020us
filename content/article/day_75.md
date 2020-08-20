@@ -23,6 +23,8 @@ Put another way, Democratic Vice President nominee Kamala Harris, explains this 
 
 The Democratic Convention continues tonight. Before that, go prepare your voting plan over at `IWillVote.com`.
 
+Update: Bannon not only has been arrested, [but was arrested by USPS, at sea](https://www.businessinsider.com/steve-bannon-was-arrested-by-us-postal-service-agents-2020-8). 2020 y'all. 2020.
+
 ### News
 
 - *Trump Administration - Tax Return* [New York Times - Trump Must Turn Over Tax Returns to D.A., Judge Rules](https://www.nytimes.com/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html)
