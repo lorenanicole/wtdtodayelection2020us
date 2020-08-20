@@ -47,3 +47,9 @@ The Democratic Convention continues tonight. Before that, go prepare your voting
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noPjcgUDOV0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 🔥 🔥 🔥 
+
+- HRC and pantsuits.
+
+<div class="tenor-gif-embed" data-postid="7209971" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/pantsuit-hillary-clinton-pantsuit-power-gif-7209971">Hillary Pantsuit GIF</a> from <a href="https://tenor.com/search/pantsuit-gifs">Pantsuit GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div class="tenor-gif-embed" data-postid="7209971" data-share-method="host" data-width="100%" data-aspect-ratio="2.0"><a href="https://tenor.com/view/pantsuit-hillary-clinton-pantsuit-power-gif-7209971">Hillary Pantsuit GIF</a> from <a href="https://tenor.com/search/pantsuit-gifs">Pantsuit GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
