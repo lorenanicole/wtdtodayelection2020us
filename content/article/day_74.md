@@ -7,7 +7,7 @@ Category: day-74
 
 _Published last at 3:00pm CDT August 21 2020, subject to change throughout the day._
 
-Last night was the final night of the DNC Convention and there was *no* better way to start than with the adorable Cedric Jr, son of US Rep Cedir Richmond, posed in front of "I am a man" in a New Orleans art gallery, grinning ear to ear reciting the Pledge of Allegiance.
+Last night was the final night of the DNC Convention and there was *no* better way to start than with the adorable Cedric Jr, son of US Rep Cedric Richmond, posed in front of "I am a man" in a New Orleans art gallery, grinning ear to ear reciting the Pledge of Allegiance.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">CEDRIC YOU CUTIE PIE! YOU ARE MOST DEF THE MAN! <a href="https://twitter.com/hashtag/DemConvention?src=hash&amp;ref_src=twsrc%5Etfw">#DemConvention</a> <a href="https://twitter.com/hashtag/DemocraticConvention?src=hash&amp;ref_src=twsrc%5Etfw">#DemocraticConvention</a> <a href="https://twitter.com/hashtag/DemConvention2020?src=hash&amp;ref_src=twsrc%5Etfw">#DemConvention2020</a> <a href="https://t.co/WQhzH01ztN">pic.twitter.com/WQhzH01ztN</a></p>&mdash; Loooorena &quot;La Tigresa&quot; Mesa @ #BlackLivesMatter 🖤 (@loooorenanicole) <a href="https://twitter.com/loooorenanicole/status/1296616006312439809?ref_src=twsrc%5Etfw">August 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
