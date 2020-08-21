@@ -49,3 +49,6 @@ Now, go over and get your voting plan together at 🗳️ `IWillVote.com` 🗳�
 ### Just for fun
 
 - Refinery 29 has compiled a series called "[Diaries from the Front Lines of the 2020 Election](https://www.refinery29.com/en-us/2020/05/9749567/jess-morales-rocketto-political-director-diary-coronavirus)" looking at the women powering the election! Reading about these powerful women,  like [Biden for President Deputy Digital Director Clarke Humphrey](https://www.refinery29.com/en-us/2020/08/9970071/dnc-joe-biden-campaign-online-fundraising-director-clarke-humphrey-diary), is great way to celebrate these women as well as get yourself motivated to stay engaged for Election 2020!
+- Take a trip through time seeing how folks supported their party at [political conventions of yesteryear](https://www.buzzfeednews.com/article/katebubacz/dnc-rnc-convention-style-photos).
+
+<img src="theme/images/dnc-1964-donkey.png">
