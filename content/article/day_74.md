@@ -21,7 +21,7 @@ Biden's acceptance speech confirmed to many what they have been wondering, does 
 
 As a staunch progressive, I expect to see and need to hear more about how we will work to challenge institutional racism and other forms of opression. How we will protect the most vulnerable. How we will take climate change seriously. How we will ensure immigrants and refugees are welcome in the United States of America.
 
-[Last night was a big step](https://www.nytimes.com/2020/08/21/opinion/joe-biden-speech.html). There's still a lot more work to do.
+[Last night was a big step](https://www.nytimes.com/2020/08/21/opinion/joe-biden-speech.html). However, there's still a lot more work to do.
 
 Now, go over and get your voting plan together at 🗳️ `IWillVote.com` 🗳️ .
 
@@ -48,4 +48,4 @@ Now, go over and get your voting plan together at 🗳️ `IWillVote.com` 🗳�
 
 ### Just for fun
 
-- Refinery 29 has ctwompiled a series called "[Diaries from the Front Lines of the 2020 Election](https://www.refinery29.com/en-us/2020/05/9749567/jess-morales-rocketto-political-director-diary-coronavirus)" looking at the women powering the election! Reading about these powerful women,  like [Biden for President Deputy Digital Director Clarke Humphrey](https://www.refinery29.com/en-us/2020/08/9970071/dnc-joe-biden-campaign-online-fundraising-director-clarke-humphrey-diary), is great way to celebrate these women as well as get yourself motivated to stay engaged for Election 2020!
+- Refinery 29 has compiled a series called "[Diaries from the Front Lines of the 2020 Election](https://www.refinery29.com/en-us/2020/05/9749567/jess-morales-rocketto-political-director-diary-coronavirus)" looking at the women powering the election! Reading about these powerful women,  like [Biden for President Deputy Digital Director Clarke Humphrey](https://www.refinery29.com/en-us/2020/08/9970071/dnc-joe-biden-campaign-online-fundraising-director-clarke-humphrey-diary), is great way to celebrate these women as well as get yourself motivated to stay engaged for Election 2020!
