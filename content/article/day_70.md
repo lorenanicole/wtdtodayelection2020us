@@ -5,7 +5,7 @@ Category: day-70
 
 ## Day 70   
 
-_Published last at 12:30pm CDT August 25 2020, subject to change throughout the day._
+_Published last at 1:55pm CDT August 25 2020, subject to change throughout the day._
 
 I'm a huge fantasy and sci-fi nerd. Reading the update on what's next for [The Dark Crystal](https://www.syfy.com/syfywire/dark-crystal-age-of-resistance-netflix-lisa-henson-whats-next), Lisa Henson observed,
 
@@ -37,7 +37,7 @@ If you're a white person go sign up for Kim Crayton's "Being an Antiracist at ho
 - *USPS - Vote by mail* [Rolling Stone - Rep. Katie Porter Exposes the Dangerous Ignorance of Postmaster General Louis DeJoy](https://www.rollingstone.com/politics/politics-news/katie-porter-exposes-ignorance-postmaster-louis-dejoy-1049242/)
 - *USPS - Vote by mail* [Forbes -  Washington Postal Workers Defy USPS Orders And Reinstall Mail Sorting Machines](https://www.forbes.com/sites/danielcassady/2020/08/22/washington-postal-workers-defy-usps-orders-and-reinstall-mail-sorting-machines/amp/)
 - *COVID19 - Vaccine* - [ABC News - FDA chief apologizes for overstating plasma effect on virus](https://abcnews.go.com/Health/wireStory/fda-commissioner-overstated-effects-virus-therapy-72595122)
--  *COVID19 - Vaccine* - [Chicago WGN9 - COVID-19 vaccine trial kicks off in Chicago: Very first participants roll up their sleeves](https://wgntv.com/news/medical-watch/covid-19-vaccine-trial-kicks-off-in-chicago-very-first-participants-roll-up-their-sleeves/)
+-  *COVID19 - Vaccine* - [Chicago WGN9 - COVID-19 vaccine trial kicks off in Chicago: Very first participants roll up their sleeves](https://wgntv.com/news/medical-watch/covid-19-vaccine-trial-kicks-off-in-chicago-very-first-participants-roll-up-their-sleeves/) 
 
 ### Events
 
@@ -47,6 +47,9 @@ If you're a white person go sign up for Kim Crayton's "Being an Antiracist at ho
 
 - [BallotReady](https://www.ballotready.org/) is a great way to start learning the platforms of candidates in the elections happening in your area! Go check it out.
 - Prepare your voting plan at `IWillVote.com`.
+- Weekly the [City of Chicago - Emergency Travel Order](https://www.chicago.gov/city/en/sites/covid-19/home/emergency-travel-order.html) updates its emergency travel order. As today's update alerted, "1/2 of all new Chicago cases are Latinx peoples". Stay up to date for [travel orders in your area](https://travel.state.gov/content/travel/en/traveladvisories/ea/covid-19-information.html).
+
+<img src="https://www.chicago.gov/content/dam/city/sites/covid/health-orders/200824-Restriction-Order-Heat-Map.png" />
 
 ### Just for fun
 
