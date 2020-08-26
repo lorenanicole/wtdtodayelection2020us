@@ -5,7 +5,7 @@ Category: day-69
 
 ## Day 69   
 
-_Published last at 2:45pm CDT August 26 2020, subject to change throughout the day._
+_Published last at 4:10pm CDT August 26 2020, subject to change throughout the day._
 
 Where do we begin.
 
@@ -15,14 +15,21 @@ Said teenager proceeded to use their gun during the protests. Three are confirme
 
 The NIMBY rheotric so proudly flaunted earlier this week at *that* convention is eeirely timed with this.
 
-Let's not write this off as the lone act of. a vigilante. We need to name what this act is, white supremacy. 
+Let's not write this off as the lone act of a vigilante. We need to name what this act is, white supremacy.
 
-White supremacy is domestic terrorism.
+> According to witness accounts and video footage, police apparently let the young man responsible for the shootings walk past them with a rifle over his shoulder as members of the crowd were yelling for him to be arrested because he had shot people.
+
+[Chicago's WBEZ reported](https://www.wbez.org/stories/3-shot-2-killed-in-3rd-night-of-unrest-over-police-shooting-of-jacob-blake/fe8964b4-150f-44fb-9eca-e37506a21851):
+
+> According to witness accounts and video footage, police apparently let the young man responsible for the shootings walk past them with a rifle over his shoulder as members of the crowd were yelling for him to be arrested because he had shot people.
+
+## White supremacy is domestic terrorism.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A 17-year-old with a history of racist and misogynistic social media posts traveled to Kenosha and murdered two protesters. This is white supremacist terrorism.<a href="https://t.co/bHQzvFZ0LQ">https://t.co/bHQzvFZ0LQ</a></p>&mdash; African American Policy Forum (@AAPolicyForum) <a href="https://twitter.com/AAPolicyForum/status/1298674795148718082?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### News
 
+- *Kenosha - Protests, Murder, & Police Brutality* [WBEZ - Suspect Arrested After 2 People Were Shot And Killed During Kenosha Protest](https://www.wbez.org/stories/3-shot-2-killed-in-3rd-night-of-unrest-over-police-shooting-of-jacob-blake/fe8964b4-150f-44fb-9eca-e37506a21851)
 - *Kenosha - Protests, Murder, & Police Brutality* [CNN - Two people are dead and a third injured in an overnight shooting in Kenosha, police say](https://www.cnn.com/2020/08/26/us/kenosha-wisconsin-wednesday-shooting/index.html)
 - *Kenosha - Protests, Murder, & Police Brutality* [NBC Chicago - Teen Suspect in Kenosha Shooting Taken Into Custody in Illinois, Facing Charges: Police](https://www.nbcchicago.com/news/local/teen-suspect-in-kenosha-shooting-taken-into-custody-in-lake-county-officials-say/2328900/)
 - *RNC Convention - Hatch Act* [Business Insider - Trump aides 'take pride' in violating ethics laws because it upsets the media at no cost to them, reports say](https://www.businessinsider.com/trump-aides-proud-to-violate-hatch-act-ethics-laws-reports-2020-8)
@@ -44,8 +51,6 @@ White supremacy is domestic terrorism.
 3. A set of ["5 Simple Self-Care Practices You Can Implement Now"](https://medium.com/thrive-global/5-simple-self-care-practices-you-can-implement-now-51b9fee2a324) at a 3 minute read is a win/win!
 
 - Register to vote. You know the drill, register at `IWillVote.com`.
-
-
 
 ### Just for fun
 
