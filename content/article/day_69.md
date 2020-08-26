@@ -5,7 +5,7 @@ Category: day-69
 
 ## Day 69   
 
-_Published last at 6:10pm CDT August 26 2020, subject to change throughout the day._
+_Published last at 6:17pm CDT August 26 2020, subject to change throughout the day._
 
 Where do we begin.
 
@@ -16,8 +16,6 @@ Said teenager proceeded to use their gun during the protests. Three are confirme
 The NIMBY rheotric so proudly flaunted earlier this week at *that* convention is eeirely timed with this.
 
 Let's not write this off as the lone act of a vigilante. We need to name what this act is, white supremacy.
-
-> According to witness accounts and video footage, police apparently let the young man responsible for the shootings walk past them with a rifle over his shoulder as members of the crowd were yelling for him to be arrested because he had shot people.
 
 [Chicago's WBEZ reported](https://www.wbez.org/stories/3-shot-2-killed-in-3rd-night-of-unrest-over-police-shooting-of-jacob-blake/fe8964b4-150f-44fb-9eca-e37506a21851):
 
