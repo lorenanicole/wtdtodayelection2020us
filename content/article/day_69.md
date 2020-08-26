@@ -5,7 +5,7 @@ Category: day-69
 
 ## Day 69   
 
-_Published last at 2:00pm CDT August 26 2020, subject to change throughout the day._
+_Published last at 2:45pm CDT August 26 2020, subject to change throughout the day._
 
 Where do we begin.
 
@@ -20,8 +20,6 @@ Let's not write this off as the lone act of. a vigilante. We need to name what t
 White supremacy is domestic terrorism.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A 17-year-old with a history of racist and misogynistic social media posts traveled to Kenosha and murdered two protesters. This is white supremacist terrorism.<a href="https://t.co/bHQzvFZ0LQ">https://t.co/bHQzvFZ0LQ</a></p>&mdash; African American Policy Forum (@AAPolicyForum) <a href="https://twitter.com/AAPolicyForum/status/1298674795148718082?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kyle Rittenhouse is a terrorist.<br>Kyle Rittenhouse is a terrorist. <br>Kyle Rittenhouse is a terrorist. <a href="https://t.co/3giQXsHbqm">https://t.co/3giQXsHbqm</a></p>&mdash; AFROPUNK (@afropunk) <a href="https://twitter.com/afropunk/status/1298703323529437185?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### News
 
@@ -51,7 +49,7 @@ White supremacy is domestic terrorism.
 
 ### Just for fun
 
-- I mentioned loving scifi and fantasy earlier. The official accompanying podcast for Lovecraft Country is 🔥.  Y'all should check it out. Why?
+I mentioned loving scifi and fantasy earlier. The official accompanying podcast for Lovecraft Country is 🔥.  Y'all should check it out. Why
 
 1. The podcast hosts are *EPIC* - [Ashley C. Ford](https://twitter.com/iSmashFizzle) and Lovecraft Country writer [Shannon Houston](https://twitter.com/shannonmhouston).
 
