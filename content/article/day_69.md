@@ -5,11 +5,11 @@ Category: day-69
 
 ## Day 69   
 
-_Published last at 4:10pm CDT August 26 2020, subject to change throughout the day._
+_Published last at 6:10pm CDT August 26 2020, subject to change throughout the day._
 
 Where do we begin.
 
-Last night a white teenager from Illinois took it upon themselves to drive to Kenosha, armed with an AR-15, to join those that some outlets are calling it "[prepared to defend buildings](https://chicago.cbslocal.com/2020/08/25/armed-group-hoping-to-protect-buildings-confronts-protesters-on-third-night-of-clashes-in-kenosha)".
+Last night a white teenager from Illinois took it upon themselves to drive to Kenosha, armed with an AR-15, to join those - that some outlets are calling it - that are "[prepared to defend buildings](https://chicago.cbslocal.com/2020/08/25/armed-group-hoping-to-protect-buildings-confronts-protesters-on-third-night-of-clashes-in-kenosha)".
 
 Said teenager proceeded to use their gun during the protests. Three are confirmed to have been shot, two of those fatally. Files have been charged.  
 
@@ -32,8 +32,9 @@ Let's not write this off as the lone act of a vigilante. We need to name what th
 - *Kenosha - Protests, Murder, & Police Brutality* [WBEZ - Suspect Arrested After 2 People Were Shot And Killed During Kenosha Protest](https://www.wbez.org/stories/3-shot-2-killed-in-3rd-night-of-unrest-over-police-shooting-of-jacob-blake/fe8964b4-150f-44fb-9eca-e37506a21851)
 - *Kenosha - Protests, Murder, & Police Brutality* [CNN - Two people are dead and a third injured in an overnight shooting in Kenosha, police say](https://www.cnn.com/2020/08/26/us/kenosha-wisconsin-wednesday-shooting/index.html)
 - *Kenosha - Protests, Murder, & Police Brutality* [NBC Chicago - Teen Suspect in Kenosha Shooting Taken Into Custody in Illinois, Facing Charges: Police](https://www.nbcchicago.com/news/local/teen-suspect-in-kenosha-shooting-taken-into-custody-in-lake-county-officials-say/2328900/)
-- *RNC Convention - Hatch Act* [Business Insider - Trump aides 'take pride' in violating ethics laws because it upsets the media at no cost to them, reports say](https://www.businessinsider.com/trump-aides-proud-to-violate-hatch-act-ethics-laws-reports-2020-8)
-- *RNC Convention - Hatch Act* [POLITICO - Meadows dismisses Hatch Act concerns at RNC: 'Nobody outside of the Beltway really cares'](https://www.politico.com/news/2020/08/26/mark-meadows-hatch-act-rnc-402194)
+- *RNC Convention - Ethics: False Representation* [The Wall Street Journal - Immigrants in Trump-Led Ceremony Didn’t Know They Would Appear at RNC ](https://www.wsj.com/articles/immigrants-in-trump-led-ceremony-didnt-know-they-would-appear-at-rnc-11598481345)
+- *RNC Convention - Ethics: Hatch Act* [Business Insider - Trump aides 'take pride' in violating ethics laws because it upsets the media at no cost to them, reports say](https://www.businessinsider.com/trump-aides-proud-to-violate-hatch-act-ethics-laws-reports-2020-8)
+- *RNC Convention - Ethics: Hatch Act* [POLITICO - Meadows dismisses Hatch Act concerns at RNC: 'Nobody outside of the Beltway really cares'](https://www.politico.com/news/2020/08/26/mark-meadows-hatch-act-rnc-402194)
 - *COVID19 - How COVID spreads* [NBC Chicago - How COVID-19 Most Commonly Spreads in Chicago: Arwady ](https://www.nbcchicago.com/news/local/how-covid-19-most-commonly-spreads-in-chicago-arwady/2328295/)
 
 ### Events
