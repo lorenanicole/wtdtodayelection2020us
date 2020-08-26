@@ -5,7 +5,7 @@ Category: day-69
 
 ## Day 69   
 
-_Published last at 6:17pm CDT August 26 2020, subject to change throughout the day._
+_Published last at 6:20pm CDT August 26 2020, subject to change throughout the day._
 
 Where do we begin.
 
@@ -53,14 +53,14 @@ Let's not write this off as the lone act of a vigilante. We need to name what th
 
 ### Just for fun
 
-I mentioned loving scifi and fantasy earlier. The official accompanying podcast for Lovecraft Country is 🔥.  Y'all should check it out. Why
+I mentioned loving scifi and fantasy earlier. The official accompanying podcast for Lovecraft Country is 🔥.  Y'all should check it out. Why? Here's a few reasons why 👇🏾
 
-1. The podcast hosts are *EPIC* - [Ashley C. Ford](https://twitter.com/iSmashFizzle) and Lovecraft Country writer [Shannon Houston](https://twitter.com/shannonmhouston).
+- The podcast hosts are *EPIC* - [Ashley C. Ford](https://twitter.com/iSmashFizzle) and Lovecraft Country writer [Shannon Houston](https://twitter.com/shannonmhouston).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got all my work done today, and I remembered I’m beautiful, so that’s a win.</p>&mdash; Ashley C. Ford (@iSmashFizzle) <a href="https://twitter.com/iSmashFizzle/status/1298694338063597569?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-2. Learning about the writing room is fascinating.
-3. Think horror isn't that interesting? Try again! "Horror is the last place for hope" as co-host Ashley C. Ford sums up. This podcast *will* challenge how you think of scifi, fantasy, and horror. It is a much needed critical exploration in how privilege, racism, and white supremacy inform but also can be confronted in the creative spaces of storytelling and entertainment. 
+- Learning about the writing room is fascinating.
+- Think horror isn't that interesting? Try again! "Horror is the last place for hope" as co-host Ashley C. Ford sums up. This podcast *will* challenge how you think of scifi, fantasy, and horror. It is a much needed critical exploration in how privilege, racism, and white supremacy inform but also can be confronted in the creative spaces of storytelling and entertainment. 
 
 Go listen *now*, available on [Spotify](https://open.spotify.com/episode/2MhCVK96mkodX6qSKduypv) and other [fine places](https://www.hbo.com/lovecraft-country/podcast).
 
