@@ -40,6 +40,10 @@ Also the enitre calendar of 'festivities' for Presidential USA 2020 are [here](h
 - Register to vote at `IWillVote.com`.
 - Then, *if you can* help power the polls by being a [pollworker](https://www.powerthepolls.org/).
 
+Voy a trabajar! Let's have fun, no?
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">HOLA MIS AMORES. VOY A HABLAR PALABRAS EN ESPANOL DURANTE 3 DE NOVIEMRE PARA MIS HISPANOHABLANTES! Or ya know English. Woof. I&#39;ll be pulling a 4am to wwwwwwwwwwwho knows what time (2016 was 4am to 10pm). <a href="https://twitter.com/hashtag/Election2020?src=hash&amp;ref_src=twsrc%5Etfw">#Election2020</a></p>&mdash; Loooorena &quot;La Tigresa&quot; Mesa @ #BlackLivesMatter 🖤 (@loooorenanicole) <a href="https://twitter.com/loooorenanicole/status/1303902353662398464?ref_src=twsrc%5Etfw">September 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ### Just for fun
 
 [Silkie chickens](https://en.wikipedia.org/wiki/Silkie) make me so happy.
