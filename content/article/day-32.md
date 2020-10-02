@@ -7,7 +7,13 @@ Category: day-32
 
 _Published last at 11:00am CDT October 2 2020, subject to change throughout the day._
 
-Trump has COVID19. 
+Documentary TOTALLY UNDER CONTROL dropped today, and on what a day to drop this announcement. From Academy Award Winner Alex Gibney, Ophelia Harutyunyan, and Suzanne Hillinger, the documentary explores the copmlete and intentional failure of the current admin to respond to the COVID19 pandemic.
+
+"No, I don't take responsibility at all", Trump eeriely states. Totally Under Control will air  10/20/2020 on Hulu, 10/13/2020 On Demand.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7ktU4WRfzM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Trump has COVID19.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">this meme was MADE for 2020 <a href="https://t.co/ygLrBBozDc">pic.twitter.com/ygLrBBozDc</a></p>&mdash; B (@iamb) <a href="https://twitter.com/iamb/status/1311906630338932737?ref_src=twsrc%5Etfw">October 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
