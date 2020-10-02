@@ -5,7 +5,7 @@ Category: day-32
 
 ## Day 32  
 
-_Published last at 11:00am CDT October 2 2020, subject to change throughout the day._
+_Published last at 12:58pm CDT October 2 2020, subject to change throughout the day._
 
 Documentary TOTALLY UNDER CONTROL dropped today, and on what a day to drop this announcement. From Academy Award Winner Alex Gibney, Ophelia Harutyunyan, and Suzanne Hillinger, the documentary explores the copmlete and intentional failure of the current admin to respond to the COVID19 pandemic.
 
