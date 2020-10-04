@@ -36,7 +36,7 @@ Only 30 days until Election 2020 everyone. Get out and vote vote vote!
 
 - On October 5th Higher Ground Labs at 4:00pm CT is hosting a "The Importance of the Latinx Vote in 2020" with Virgina Tech's Latino Association of Student Organizations (LASO). RSVP [today](https://www.mobilize.us/highergroundlabs/event/315263/?followup_modal_context=newsletter)!
 - October 7th at 08:00pm CT the Vice Presidential Debate between Democratic VP Candidate Harris and Pence. *I cannot wait to see Harris dominate!* And yes, the Biden campaign has asked for stricter health measures, [including 12 feet distancing](https://www.politico.com/news/2020/10/02/biden-campaign-vp-debate-safety-concerns-425485) since the Repulican campaign does not seem to understand basic social distancing and other COVID reventative measures. How to watch information [here](https://www.indiewire.com/feature/how-watch-vice-presidential-debate-kamala-harris-mike-pence-1234588721/).
-- October 8th at 6:00pm CT Haymarket Books is hosting a Teach-In with Naomi Klein and Johann Hari on "Trump's Shock Election Politics - And How to Fightt What He Does Next". RSVP [here](Trump’s Shock Election Politics - And How To Fight What He Does Next).
+- October 8th at 6:00pm CT Haymarket Books is hosting a Teach-In with Naomi Klein and Johann Hari on "Trump's Shock Election Politics - And How to Fightt What He Does Next". RSVP [here](https://www.eventbrite.com/e/trumps-shock-election-politics-and-how-to-fight-what-he-does-next-tickets-123347522761).
 
 ### Call to Action
 
