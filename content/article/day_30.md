@@ -25,7 +25,7 @@ Only 30 days until Election 2020 everyone. Get out and vote vote vote!
 
 ### News
 
-- *Election 2020 - COVID impact on Trump Campaign* [Vanity Faiur - “This Is Spiraling Out of Control”: Allies Panic About Trump’s Hospital Stay as White House Deflects ][(https://www.courier-journal.com/story/news/politics/2020/10/02/mitch-mcconnell-wont-say-received-recent-covid-test/3592828001/)]
+- *Election 2020 - COVID impact on Trump Campaign* [Vanity Faiur - “This Is Spiraling Out of Control”: Allies Panic About Trump’s Hospital Stay as White House Deflects ](https://www.courier-journal.com/story/news/politics/2020/10/02/mitch-mcconnell-wont-say-received-recent-covid-test/3592828001/)
 - *Election 2020 - Cook County Illinois Voting Guide* - [Girl, I Guess - A Progressive Voter Guide to the 2020 General Election in Cook County and Beyond
 ](https://docs.google.com/document/d/1CFgtVl2S6SPs8KmV4YvrF1zrSL0o9u3gJKZ2Gu6cZG8/preview?pru=AAABdQkO-Sg*-mBfE8GiiKVEg95h_i9NaQ&fbclid=IwAR1nkxMOpMvN8N-F8yvMk_2cHMOZvEUu3yH9HEMs3rLXmZKx9wKtihPLR1c)
 - *SCOTUS - Supreme Court Appointment* [The Hill - Klobuchar calls for postponement of Supreme Court hearing: 'We don't know how many other Republican senators had' COVID-19](https://thehill.com/homenews/sunday-talk-shows/519522-klobuchar-calls-to-postpone-supreme-court-hearing-we-dont-know-how)
