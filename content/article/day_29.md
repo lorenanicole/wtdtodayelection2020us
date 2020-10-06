@@ -1,9 +1,9 @@
-Title: Day 28
+Title: Day 29
 Date: 2020-10-05
-Slug: day_28
-Category: day-28
+Slug: day_29
+Category: day-29
 
-## Day 28  
+## Day 29  
 
 _Published last at 11:20pm CDT October 5 2020, subject to change throughout the day._
 
