@@ -1,9 +1,9 @@
-Title: Day 29
+Title: Day 28
 Date: 2020-10-05
-Slug: day_29
-Category: day-29
+Slug: day_28
+Category: day-28
 
-## Day 29  
+## Day 28  
 
 _Published last at 11:20pm CDT October 5 2020, subject to change throughout the day._
 
@@ -19,7 +19,7 @@ The fallout continues as White House journalists are livid given the added news 
 
 The continued bafoonery of the White House administration and Trump demonstrates plainly and. clearly: Trump and his people do not care about us. Nor will they do anything to contradict their own personal interest. The inaction to plan for COVID19, the failure to denounce White Supremacy, the fearmongering and attempt to thrawt public trust in mailin voting, the [dismantling of indigenous people's sovereignty](https://twitter.com/jtlarsen/status/1313088281207287813?s=20). *These abuses, these failure sis not by chance, but by design*.
 
-Prepare to vote, sign up at `IWillVote.com`, we have only 29 days until Election Day 2020. 
+Prepare to vote, sign up at `IWillVote.com`, we have only 28 days until Election Day 2020. 
 
 ### News
 
