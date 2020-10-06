@@ -5,7 +5,7 @@ Category: day-28
 
 ## Day 28  
 
-_Published last at 12:20pm CDT October 6 2020, subject to change throughout the day._
+_Published last at 12:32pm CDT October 6 2020, subject to change throughout the day._
 
 "Nationwide, more than 32 million ballot requests have been made -- primarily for mail-in ballots -- in the 37 states currently reporting. Another 43 million ballots have been or will soon be mailed to voters in the nine states -- along with Washington, DC -- that are automatically mailing ballots to eligible voters," [CNN reports](https://www.cnn.com/2020/10/06/politics/ballot-returns-early-voting-2020-election/index.html). 
 
@@ -42,6 +42,7 @@ Prepare to vote. Vote now. Make a backup plan. Today we are 210,127 lives lost d
 
 - Get your flu shot, [here's a list of where to get it](https://www.health.com/condition/cold-flu-sinus/free-flu-shots).
 - [Download and use this](https://donaldtrumpmustbingo.com/) "Donald Trump Must [Bin]Go" card that includes actionable items you can do now until Election Day 2020 by [Clara Bellum](https://twitter.com/clarabellum)!
+- Read and prepare to vote. Here's a "[How to Vote in the 2020 Election](https://projects.fivethirtyeight.com/how-to-vote-2020/)" guide prepared by FiveThirtyEight.
 
 ### Just for fun
 
