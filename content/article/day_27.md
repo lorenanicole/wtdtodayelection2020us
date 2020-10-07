@@ -5,7 +5,7 @@ Category: day-27
 
 ## Day 27  
 
-_Published last at 12:41pm CDT October 7 2020, subject to change throughout the day._
+_Published last at 2:08pm CDT October 7 2020, subject to change throughout the day._
 
 [5,243,246 ballots](https://electproject.github.io/Early-Vote-2020G/index.html) have been cast for Election 2020 thus far. 
 
@@ -23,6 +23,7 @@ Go vote. After you vote, confirm (if you voted early) that your vote has been re
 
 ### News
 
+- *Election 2020 - Voter Supression* [New York Times: Election Officials are Preparing for Potiential Unrest at the Polls](https://www.nytimes.com/2020/10/07/us/politics/voter-intimidation-harassment-election.html)
 - *Election 2020 - Voter Supression* [New York Times - The Attack on Voting: How President Trump’s false claim of voter fraud is being used to disenfranchise Americans](https://www.nytimes.com/2020/09/30/magazine/trump-voter-fraud.html)
 - *Election 2020 - Political Strategy* [NPR - Getting Lots Of Political Messages On Your Phone? Welcome To 'The Texting Election'](https://www.npr.org/2020/10/07/920776670/getting-lots-of-political-messages-on-your-phone-welcome-to-the-texting-election)
 - *Election 2020 - Economy* [The Guardian - First Thing election special: Trump's tweets tank the Dow ](https://www.theguardian.com/us-news/2020/oct/07/first-thing-election-special-trumps-tweets-tank-the-dow)
