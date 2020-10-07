@@ -5,7 +5,7 @@ Category: day-27
 
 ## Day 27  
 
-_Published last at 9:50am CDT October 7 2020, subject to change throughout the day._
+_Published last at 12:41pm CDT October 7 2020, subject to change throughout the day._
 
 [5,243,246 ballots](https://electproject.github.io/Early-Vote-2020G/index.html) have been cast for Election 2020 thus far. 
 
@@ -32,10 +32,15 @@ Go vote. After you vote, confirm (if you voted early) that your vote has been re
 - *COVID19 - Trump Admin Failure* [The Guardian - Top US immunologist quits health role over Trump Covid response ](https://www.theguardian.com/world/2020/oct/07/top-us-immunologist-quits-health-role-over-trump-covid-response-rick-bright)
 - *COVID19 - #TrumpHasCovid* [The New York Times - Stephen Miller Tests Positive as White House Outbreak Grows](https://www.nytimes.com/live/2020/10/06/us/trump-covid-live-updates)
 
-### Cook County, Illinois Voting Guides
+### Voting Guides
 
+*Cook County Illinois*
 - If you're in Cook County, look no further for information on how to vote on your judges. [Injustice Watch](https://www.injusticewatch.org/interactives/judicial-election-guide/2020-general/en/) has a guide for you.
 - [Girl, I Guess](https://docs.google.com/document/d/1CFgtVl2S6SPs8KmV4YvrF1zrSL0o9u3gJKZ2Gu6cZG8/edit) has a progressive voters guide as well. Also available in [Spanish](https://docs.google.com/document/d/1n16jV218Z1JkvzwYPVmkBkx6lWkpXcuAAQML2MqSn5Y/edit)! 
+
+*California*
+- [Cal Matters](https://calmatters.org/election-2020-guide/)
+- [Greenlining on Ballot Propositions](https://greenlining.org/publications/reports/2020/ballot-propositions-2020/)
 
 ### Events
 
