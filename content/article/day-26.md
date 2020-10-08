@@ -25,6 +25,8 @@ Kamala Harris not only [won last night's debate](https://www.politicususa.com/20
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s too bad Trump is afraid to debate next week. <a href="https://t.co/4juvdgPfE7">pic.twitter.com/4juvdgPfE7</a></p>&mdash; Pete Buttigieg (@PeteButtigieg) <a href="https://twitter.com/PeteButtigieg/status/1314212949255319556?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+Update: Joe Biden is moving forward with Wednesday's appearance and is scheduled to for a [Town Hall](https://variety.com/2020/tv/news/joe-biden-abc-news-town-hall-presidential-debates-1234797920/). At least *someone* is taking the job interview serious.  
+
 Regardless, register to vote. Let's make this defeat an overwhelming one. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pitch in $5 to help this campaign fly. <a href="https://t.co/CqHAId0j8t">https://t.co/CqHAId0j8t</a> <a href="https://t.co/NbkPl0a8HV">pic.twitter.com/NbkPl0a8HV</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1314031047013732352?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
