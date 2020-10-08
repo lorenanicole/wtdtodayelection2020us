@@ -21,7 +21,7 @@ Even when Pence - a White man with all the privilege that only those that are Wh
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hmm. Notice a pattern from the <a href="https://twitter.com/nytopinion?ref_src=twsrc%5Etfw">@nytopinion</a> writers who think Kamala won vs. Pence? <a href="https://t.co/3476OjAX4j">pic.twitter.com/3476OjAX4j</a></p>&mdash; Kaivan Shroff (@KaivanShroff) <a href="https://twitter.com/KaivanShroff/status/1314209539068051462?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Kamala Harris not only won last night's debate, she demonstrated the clear failure that is the Trump administration. The Trump administration knows it to, since as of the writing of this post Trump has withdrawn from participating in next week's Presidential debate. 
+Kamala Harris not only [won last night's debate](https://www.politicususa.com/2020/10/08/vp-debate-poll.html), she demonstrated the clear failure that is the Trump administration. The Trump administration knows it to, since as of the writing of this post Trump has withdrawn from participating in next week's Presidential debate. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s too bad Trump is afraid to debate next week. <a href="https://t.co/4juvdgPfE7">pic.twitter.com/4juvdgPfE7</a></p>&mdash; Pete Buttigieg (@PeteButtigieg) <a href="https://twitter.com/PeteButtigieg/status/1314212949255319556?ref_src=twsrc%5Etfw">October 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
