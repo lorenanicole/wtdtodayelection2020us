@@ -5,7 +5,7 @@ Category: day-4
 
 ## Day 4  
 
-_Published last at 11:21am CDT October 30 2020, subject to change throughout the day._
+_Published last at 11:33am CDT October 30 2020, subject to change throughout the day._
 
 [84,541,764](https://electproject.github.io/Early-Vote-2020G/index.html) have been cast for Election 2020 thus far accounting for 61.3% of the total votes cast in the 2016 general election. 
 
@@ -28,6 +28,12 @@ It's up to every single one of us to:
 - *Vote today, vote early* and if you cannot *make a plan to arrive early on November 3rd to vote*
 - Inspire those in your networks to vote
 - Use tools like `IWillVote.com` and `BallotReady.com` to help 
+
+And most importantly, *take care of yourself and one another*, it's going to be a wild next week, and COVID's third wave is just starting. 
+
+Let's take a leaf out of AOC's book and "drink water and don't be racist".
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Republicans are Very Mad (again) about my appearance. This time they’re mad that I look good in borrowed clothes (again).<br><br>Listen, if Republicans want pointers on looking your best, I’m happy to share.<br><br>Tip #1: Drink water and don’t be racist</p>&mdash; Alexandria Ocasio-Cortez (@AOC) <a href="https://twitter.com/AOC/status/1321887547564449793?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ### News
 
